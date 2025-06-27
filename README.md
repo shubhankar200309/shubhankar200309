@@ -86,8 +86,8 @@ He aspires to redefine the future of cloud security—collaborating with forward
 
 | 🛡️ **Project Name**                | 🔍 **Description**                                                                                                   | 🛠️ **Tech Stack**                      | 🔗 **Link**               |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------|---------------------------|
-| **AI-Powered Deepfake Detection** | Built LSTM + RNN-based model for video manipulation detection (92% accuracy). SIH 2024 Semi-Finalist.              | Python, TensorFlow, OpenCV            | [GitHub](#)               |
-| **AWS 3-Tier Web App (WIP)**      | Designed a cloud-native architecture with VPC, EC2, S3, and RDS for a secure web application.                        | AWS, HTML, CSS, Route 53, IAM         | [GitHub](#)               |
+| **AI-Powered Deepfake Detection** | Built LSTM + RNN-based model for video manipulation detection (92% accuracy). SIH 2024 Semi-Finalist.              | Python, TensorFlow, OpenCV            | [Link](https://github.com/shubhankar200309/Deepfake-Detection)               |
+| **AWS 3-Tier Web App (WIP)**      | Designed a cloud-native architecture with VPC, EC2, S3, and RDS for a secure web application.                        | AWS, HTML, CSS, Route 53, IAM         | [Link](#)               |
 
 ---
 
