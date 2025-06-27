@@ -124,5 +124,5 @@ He’s driven to redefine cloud security—collaborating with innovators to buil
 ---
 
 <p align="center">
-  Made by <strong>Shubhankar Gupta</strong> 😄
+  Made by <strong>Shubhankar Gupta</strong> 😄 <a href="mailto:shubhankargupta09@gmail.com"><img src="https://img.shields.io/badge/Email-ff3625" alt="Email">
 </p>
