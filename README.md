@@ -22,13 +22,12 @@ Shubhankar isn't just navigating the digital world; he's helping shape its found
 
 His canvas?
 
-- **AWS Cloud Security Enthusiast**: Focused on AWS, Shubhankar is laying a strong foundation to build secure, scalable cloud systems. His AWS Cloud Practitioner certification reflects his dedication and career focus.
+- **AWS Cloud Security Enthusiast**: With a focus on AWS and certification as a Cloud Practitioner, he aims to build secure, scalable cloud systems.
 - **AI-Driven Cloud Defense**: As an AWS AI Practitioner, he explores how AI can enhance cloud security through smart, adaptive solutions.
 
 **BEYOND THE DIGITAL HORIZON** 🏊‍♂️🎮
 
 A **state-level swimmer and avid game**r, Shubhankar blends discipline and strategy with a passion for tech. These traits help him approach cybersecurity with creativity and precision.
-
 He’s driven to redefine cloud security—collaborating with innovators to build resilient, future-ready systems.
 
 ---
