@@ -18,19 +18,18 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/userupload/20598926/file/original-905170d1fa46f67dbd89a9206cd928ae.gif" alt="Coding" />
 
-Shubhankar isn't just navigating the digital world; he's sculpting its very foundations. A B.Tech Student with a profound fascination for cloud security, he's not merely securing data; he's sculpting the very landscapes where our digital future will thrive.
+Shubhankar isn't just navigating the digital world; he's helping shape its foundations. A B.Tech student passionate about **CLOUD SECURITY**, he's committed to building the environments where our digital future will thrive.
 
 His canvas?
 
-- **AWS Cloud Security Enthusiast**: Shubhankar is deeply invested in cloud security, with a strong focus on AWS. He's building a solid foundation in this domain and aims to make it his primary career path by contributing to secure and scalable cloud environments. His certification as an AWS Cloud Practitioner highlights his technical readiness and dedication.
-- **AI-Driven Cloud Defense**: Beyond traditional security, Shubhankar explores how artificial intelligence can enhance cloud protection. As an AWS AI Practitioner, he's keen on developing intelligent, adaptive security solutions that safeguard digital assets against evolving threats.
-  
-**BEYOND THE DIGITAL HORIZON 🏊‍♂️🎮**
+- **AWS Cloud Security Enthusiast**: Focused on AWS, Shubhankar is laying a strong foundation to build secure, scalable cloud systems. His AWS Cloud Practitioner certification reflects his dedication and career focus.
+- **AI-Driven Cloud Defense**: As an AWS AI Practitioner, he explores how AI can enhance cloud security through smart, adaptive solutions.
 
-Beyond the screen, Shubhankar embodies a unique blend of discipline, creativity, and strategy. His background as a **state-level swimmer** showcases his commitment and perseverance, while **gaming** sharpens his tactical thinking and adaptability. These qualities, paired with a strong passion for technology, empower him to approach cybersecurity with innovative and practical solutions.
+**BEYOND THE DIGITAL HORIZON** 🏊‍♂️🎮
 
-He aspires to redefine the future of cloud security—collaborating with forward-thinking minds to build resilient digital ecosystems where innovation and protection go hand in hand.
+A **state-level swimmer and avid game**r, Shubhankar blends discipline and strategy with a passion for tech. These traits help him approach cybersecurity with creativity and precision.
 
+He’s driven to redefine cloud security—collaborating with innovators to build resilient, future-ready systems.
 
 ---
 
